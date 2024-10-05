@@ -1,2 +1,1 @@
 print("Hello my higgas!");
-print("How are you");
